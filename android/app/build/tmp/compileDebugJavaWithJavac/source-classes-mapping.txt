@@ -1,0 +1,14 @@
+com/kamislima/BuildConfig.java
+ com.kamislima.BuildConfig
+com/kamislima/MainActivity.java
+ com.kamislima.MainActivity
+com/kamislima/MainApplication.java
+ com.kamislima.MainApplication
+ com.kamislima.MainApplication$1
+com/kamislima/ReactNativeFlipper.java
+ com.kamislima.ReactNativeFlipper
+ com.kamislima.ReactNativeFlipper$1
+ com.kamislima.ReactNativeFlipper$2
+ com.kamislima.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
